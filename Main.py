@@ -695,4 +695,10 @@ class Main:
 
                 # Switch turn
                 self.changePlayersTurn()
-Main()
+
+# ------------------ Main entry point ------------------
+if __name__ == "__main__":
+    Main()
+
+
+
